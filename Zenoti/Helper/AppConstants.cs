@@ -4,7 +4,7 @@ namespace Zenoti
 {
 	public class AppConstants
 	{
-		public static readonly string ELASTIC_SEARCH_URL = "http://localhost:9200";
+		public static readonly string ELASTIC_SEARCH_URL = "http://paas:82159e72f07a8c377e7efe84f619886f@dori-us-east-1.searchly.com";
 		public static readonly string ELASTIC_SEARCH_INDEX_NAME = "zenoti";
 		public static readonly string ELASTIC_SEARCH_TYPE_BUSINESS = "business";
 		public static readonly string ELASTIC_BUSINESS_NAME = "businessName";
