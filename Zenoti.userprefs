@@ -1,1 +1,18 @@
-﻿<Properties StartupItem="Zenoti/Zenoti.csproj" />
+﻿<Properties StartupItem="Zenoti/Zenoti.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zenoti/Helper/AppConstants.cs">
+    <Files>
+      <File FileName="Zenoti/Controllers/HomeController.cs" Line="31" Column="1" />
+      <File FileName="Zenoti/Models/DatabaseContext.cs" Line="47" Column="23" />
+      <File FileName="Zenoti/Models/Business.cs" Line="7" Column="1" />
+      <File FileName="Zenoti/Managers/HomeManager.cs" Line="19" Column="33" />
+      <File FileName="Zenoti/Helper/ServiceResponse.cs" Line="7" Column="34" />
+      <File FileName="Zenoti/Helper/AppConstants.cs" Line="11" Column="72" />
+      <File FileName="Zenoti/Views/Home/Index.aspx" Line="8" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
